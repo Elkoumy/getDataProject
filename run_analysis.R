@@ -74,5 +74,5 @@ melted<-melt(final,id=c("activity","subject"))
 glData<-dcast(melted,activity+subject~variable)
 
 #making the dataset
-write.csv(glData,"meanofVariables.csv")
+write.csv(glData,"meanofVariables.txt")
 
