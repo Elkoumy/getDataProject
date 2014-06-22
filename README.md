@@ -2,7 +2,7 @@ getDataProject
 ==============
 
 =========================================================================
-                  				Code Description
+	            	Code Description
 =========================================================================
 The code starts with reading the data sets of train then adds the 
 activity type using the cbind function and adds the subject to it 
